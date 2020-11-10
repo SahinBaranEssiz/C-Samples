@@ -1,0 +1,13 @@
+C:\Users\şahin\Documents\GitHub\C# Samples\Sample_10\Sample_10\bin\Debug\netcoreapp3.1\Sample_10.exe
+C:\Users\şahin\Documents\GitHub\C# Samples\Sample_10\Sample_10\bin\Debug\netcoreapp3.1\Sample_10.deps.json
+C:\Users\şahin\Documents\GitHub\C# Samples\Sample_10\Sample_10\bin\Debug\netcoreapp3.1\Sample_10.runtimeconfig.json
+C:\Users\şahin\Documents\GitHub\C# Samples\Sample_10\Sample_10\bin\Debug\netcoreapp3.1\Sample_10.runtimeconfig.dev.json
+C:\Users\şahin\Documents\GitHub\C# Samples\Sample_10\Sample_10\bin\Debug\netcoreapp3.1\Sample_10.dll
+C:\Users\şahin\Documents\GitHub\C# Samples\Sample_10\Sample_10\bin\Debug\netcoreapp3.1\Sample_10.pdb
+C:\Users\şahin\Documents\GitHub\C# Samples\Sample_10\Sample_10\obj\Debug\netcoreapp3.1\Sample_10.csprojAssemblyReference.cache
+C:\Users\şahin\Documents\GitHub\C# Samples\Sample_10\Sample_10\obj\Debug\netcoreapp3.1\Sample_10.AssemblyInfoInputs.cache
+C:\Users\şahin\Documents\GitHub\C# Samples\Sample_10\Sample_10\obj\Debug\netcoreapp3.1\Sample_10.AssemblyInfo.cs
+C:\Users\şahin\Documents\GitHub\C# Samples\Sample_10\Sample_10\obj\Debug\netcoreapp3.1\Sample_10.csproj.CoreCompileInputs.cache
+C:\Users\şahin\Documents\GitHub\C# Samples\Sample_10\Sample_10\obj\Debug\netcoreapp3.1\Sample_10.dll
+C:\Users\şahin\Documents\GitHub\C# Samples\Sample_10\Sample_10\obj\Debug\netcoreapp3.1\Sample_10.pdb
+C:\Users\şahin\Documents\GitHub\C# Samples\Sample_10\Sample_10\obj\Debug\netcoreapp3.1\Sample_10.genruntimeconfig.cache
